@@ -1,0 +1,423 @@
+.heading {
+  max-width: 100%;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 40px;
+  padding-top: 50px;
+  min-width: 1200px;
+}
+
+.left-heading {
+  display: flex;
+  font-family: sans-serif;
+  width: 70%;
+}
+
+.circle {
+  display: flex;
+  background-color:IndianRed;
+  color: white;
+  height:86px;
+  width:86px;
+  border-radius:50%;
+  font-weight:bold;
+  min-width:86px;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+.Journey{
+  display:flex;
+  padding-left: .5em;
+  justify-content: center;
+  align-items: center;
+  font-size:36px;
+  font-weight:bold;
+  
+}
+
+.line{
+  padding-left:.5em;
+  padding-right:.5em;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  color: gray;
+  font-weight: bold;
+  opacity: .65;
+}
+
+.slogan{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width:150px;
+  min-width:150px;
+  color: gray;
+  font-weight: bold;
+  opacity: .65;
+}
+
+.logo{
+  display: flex;
+  width: 100%;
+}
+.right-heading{
+  width:30%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  
+}
+
+  
+.social-icon{
+  display: flex;
+  margin: 0.5em;
+  width: 24px;
+  height: 24px;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  opacity: .65;
+  border-radius: 50%;
+  color: white;
+ 
+
+}
+
+.under-line{
+  min-width: 1200px;
+  height:3px;
+  background-color:gray;
+  opacity: .35;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.middle-section1{
+  min-width:1200px;
+  padding-left: 70px;
+  padding-right: 70px;
+  height: 1150px;
+}
+.hello{
+  text-align: center;
+  padding: 20px 20px;
+  font-family: sans-serif;
+  color: DimGray;
+  font-size: 36px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.desert{
+  overflow: hidden;
+  width: 100%;
+  max-height: 600px;
+  height: 500px;
+  min-width: 1200px;
+  border-radius: 15px;
+}
+
+
+.bigger-icon{
+  width: 33%;
+  text-align: center;
+  float: left;
+  min-width:235px;
+
+}
+
+.icon-circle {
+  display: inline-block;
+  border-radius: 50%;
+  color: IndianRed;
+  width: 68px;
+  height: 68px;
+  line-height: 68px;
+  font-size: 95px;
+
+  
+  
+}
+
+.icon-header {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: -25px;
+
+}
+
+.horizontal-line{
+  color: gray;
+}
+
+.icon-description{
+  font-family: sans-serif;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: gray;
+  padding-bottom: 60px;
+}
+
+.middle-section2{ 
+  min-width:1200px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  
+  
+}
+.container{
+  display: flex;
+}
+
+.image-mountain{
+  width: 360px;
+  height: 238px;
+}
+
+.mountain{
+  display:flex;
+  justify-content: center;
+  width: 100%;
+  border-radius: 10px;
+}
+.text{
+  font-family: sans-serif;
+  width: 840px;
+  margin-left: 3em;
+  min-height: 238px;
+  max-height: 238px;
+  color: gray;
+}
+
+.mountain-caption {
+  color: gray;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.middle-section3{
+  min-width:1200px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 80px;
+  padding-bottom:  80px;
+  
+  
+}
+
+.container3{
+  display:flex;
+}
+
+.text3{
+  font-family: sans-serif;
+  width: 840px;
+  margin-right: 3em;
+  min-height: 238px;
+  max-height: 238px;
+  color: gray;
+  
+}
+
+.sky-caption{
+  font-weight: lighter;
+}
+
+.More_info{
+  display:flex;
+  }
+  
+.information{
+  background-color: IndianRed;
+  color: white;
+  margin-right: 2em;
+  height: 34px;
+  width: 140px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.or{
+  margin-right: 2em;
+  height: 34px;
+  display: flex;
+  align-items: center;
+}
+
+.get-it{
+  display: flex;
+  align-items: center;
+  color: IndianRed;
+}
+.image3-container{
+  width: 360px;
+  height: 238px;
+}
+.image3{
+  display:flex;
+  justify-content: center;
+  width: 100%;
+  border-radius:10px;
+}
+
+.middle-section4{
+  min-width:1200px;
+  padding-left: 70px;
+  padding-right: 70px;
+  text-align: center;
+  background-color:lightgray;
+}
+
+.twitter4{
+  font-size: 42px;
+  color: #00aced;
+  padding-top: 50px;
+}
+
+.social-media{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 25px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 20px;
+  color: black;
+}
+
+.pixel-ago{
+  display:flex;
+  justify-content: center;
+}
+
+.pixel-buddah{
+  font-family: sans-serif;
+  color: IndianRed;
+  padding-right: .3em;
+}
+
+.long-ago{
+  color:DimGray;
+  font-family: sans-serif;
+}
+
+.circles{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
+.circ-1{
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  background-color: IndianRed;
+}
+
+.circ-2{
+  margin-left: .8em;
+  height: 12px;
+  width:12px;
+  border-radius: 50%;
+  background-color: whiteSmoke;
+}
+
+.last-section{
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 40px;
+  min-width: 1200px;
+  padding-bottom: 400px;
+  font-family: sans-serif;
+  background-image: url("screens/flowers.jpg");
+  background-size: cover
+}
+
+.email-subscribe{
+  display:flex;
+  justify-content: center;
+  padding-top: 15px;
+
+}
+
+.email{
+  display:flex;
+  align-items:center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  width: 350px;
+  padding-left: 20px;
+  color:gray;
+  opacity:.6;
+  border-color: black;
+  border-radius: 10px;
+  border-width: 20px;
+}
+
+.subscribe1{
+  margin-left: 1.5em;
+  display: flex;
+  align-items:center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: IndianRed;
+  color: white;
+  width: 160px;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.subscribe-container{
+  display:flex;
+  justify-content:center;
+}
+.subscribe-nowif{
+  font-weight: lighter;
+  font-size: 16px;
+  opacity: .55;
+  width: 500px;
+  line-height: 22px;
+}
+
+.line-final{
+  color:gray;
+}
+
+.social-icons-final{
+  display:flex;
+  justify-content: center;
+    padding-bottom: 150px;
+  
+}
+
+.social-icon-final{
+  margin: .9em;
+  background-color: lightgray;
+  color: white;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  
+}
